@@ -12,3 +12,8 @@ li, a, button {
     color: #f19201;
     text-decoration: none;
 }
+
+header {
+    display: flex;
+    justify-content: space-between;  
+}
