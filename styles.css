@@ -15,5 +15,10 @@ li, a, button {
 
 header {
     display: flex;
-    justify-content: space-between;  
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 25px 8%;
+}
+.logo {
+    cursor: pointer;
 }
