@@ -87,6 +87,7 @@ button:hover {
 
 .box-model {
     display: flex;
+    background-color: grey;
     width: 80%;
     margin: auto; 
 }
@@ -94,7 +95,7 @@ button:hover {
     flex: 1;
     background-color: white;
     padding: 20px;
-    border: 2px solid #9b51e0;
+    border: none;
     margin: auto;
     width: 300px;
     height: 300px;
@@ -104,7 +105,7 @@ button:hover {
     flex: 1;
     background-color: white;
     padding: 20px;
-    border: 2px solid #9b51e0;
+    border: none;
     margin: 20px;
     width: 300px;
     height: 300px;
@@ -114,10 +115,62 @@ button:hover {
     flex: 1;
     background-color: white;
     padding: 20px;
-    border: 2px solid #9b51e0;
+    border: none;
     margin: 20px;
     width: 200px;
     height: 300px;
+    display: flex;
 }
 
+.box1-a {
+    background-color: #f19201;
+    color: white;
+    width: 70px;
+    height: 70px;
+    /* padding-bottom: 20px; */
+    border-radius: 100%;
+    margin: auto;
+    border: 0 solid;
+    border-style: solid;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+    font-weight: 800;
+
+}
+
+
+.box1-b {
+    background-color: #f19201;
+    color: white;
+    width: 70px;
+    height: 70px;
+    /* padding-bottom: 20px; */
+    border-radius: 100%;
+    margin: auto;
+    border: 0 solid;
+    border-style: solid;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+    font-weight: 800;
+
+}
+
+.box1-c {
+    background-color: #f19201;
+    color: white;
+    width: 70px;
+    height: 70px;
+    /* padding-bottom: 20px; */
+    border-radius: 100%;
+    margin: auto;
+    border: 0 solid;
+    border-style: solid;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+    font-weight: 800;
+
+}
 
