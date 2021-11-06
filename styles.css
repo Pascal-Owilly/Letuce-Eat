@@ -19,7 +19,6 @@ header {
     align-items: center; 
     padding: 25px 8%;
     background-image: url('images/image2.png');
-    opacity: 0.4;
 }
 .logo {
     cursor: pointer;
