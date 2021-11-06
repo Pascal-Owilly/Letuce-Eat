@@ -22,3 +22,31 @@ header {
 .logo {
     cursor: pointer;
 }
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+display: inline-block;
+padding: 0px 18px;
+}
+
+.nav-links li a {
+transition: all 0.2s ease 0s;
+}
+
+.nav-links li a:hover {
+     color: blue;
+    }
+button {
+    padding: 8px 22px;
+    background-color: #f19201;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover {
+    background-color:rgba,136,169,0.7;
+}
