@@ -195,13 +195,20 @@ button:hover {
 
  .review-farm {
      flex: 1;
+     align-items: center;
+     justify-content: center;
      background-color: black;
      color: white;
-     align-items: center;
-     margin-bottom: aouto;
-     float: right;
+     padding: 20px;
+     border: #f19201;
+     margin: 1px;
  }
 
 .review-farm > h2 {
      text-transform: uppercase;
+}
+
+.review-farm > p {
+    line-height: 1.4em;
+    font-size: 19px;
 }
