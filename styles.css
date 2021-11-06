@@ -216,10 +216,41 @@ button:hover {
 span {
     color: #f19201;
     font-size: 30px;
-    font-weight: 800;
-    text-align: center;   
+    font-weight: 800;  
 }
 .menu {
     text-align: center;
     line-height: 5em;
 }
+
+.container {
+    display: flex;
+    max-width: 600px;
+    
+}
+
+.box-1 {
+    flex: 1;
+    padding: 20px;
+    border: 2px solid grey;
+    box-shadow: 2px 2px pink;
+}
+.box-2 {
+    flex: 1;
+    flex-direction: column;
+}
+
+.container > .box-2 {
+    text-align: left;
+    display: flex;
+}
+.box-2-a {
+    flex: 1;
+    background-color: #f19201;
+
+}
+.box-2-b {
+    flex: 1;
+    background-color: blueviolet;
+}
+
