@@ -50,6 +50,7 @@ button {
     cursor: pointer;
     transition: all 0.3s ease 0s;
     margin-left: 60px;
+    font-weight: 700;
 }
 
 button:hover {
@@ -87,8 +88,7 @@ button:hover {
 .box-model {
     display: flex;
     width: 80%;
-    margin: auto;
-    
+    margin: auto; 
 }
 .box1 {
     flex: 1;
