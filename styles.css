@@ -15,12 +15,15 @@ li, a, button {
 
 header {
     display: flex;
-    justify-content: space-between; 
+    justify-content: flex-start; 
     align-items: center; 
     padding: 25px 8%;
+    background-image: url('images/image2.png');
+    opacity: 0.4;
 }
 .logo {
     cursor: pointer;
+    margin-right: auto;
 }
 .nav-links {
     list-style: none;
@@ -45,8 +48,18 @@ button {
     border: none;
     cursor: pointer;
     transition: all 0.3s ease 0s;
+    margin-left: 60px;
 }
 
 button:hover {
     background-color:rgba,136,169,0.7;
+}
+
+.header-image {
+    background-image: url('images/image2.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    color: black;
+    opacity: 1;
 }
