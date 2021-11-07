@@ -10,14 +10,13 @@ We have no issues yet but should you come across anything. please send us an ema
 ## Technologies Used
 I used the followindg languages to create this website"
 1. HTML
-2. 2.css
+2. CSS
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 Incase you have any issues, concerns or questions using my website please feel free to contact me on the email below:
 *pascalouma54@gmail.com
 or
 0712154175*. Thank you.
-### License![Screenshot from 2021-11-07 01-15-44](https://user-images.githubusercontent.com/93345847/140658485-b71e8e7e-7ce9-4e56-8e30-abdf45e95834.png)
+### License!
 ![Screenshot from 2021-11-07 22-08-38](https://user-images.githubusercontent.com/93345847/140658488-2d3e9bd8-509e-4854-a959-cfd54c6a2063.png)
 ![Screenshot from 2021-11-07 22-08-45](https://user-images.githubusercontent.com/93345847/140658490-4f040069-ddfe-42cb-ae0b-0aec6f0c6095.png)
 ![Screenshot from 2021-11-07 22-08-56](https://user-images.githubusercontent.com/93345847/140658497-0c919c13-1430-4121-ba70-a3e220c516ca.png)
