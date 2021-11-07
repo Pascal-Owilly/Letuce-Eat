@@ -1,10 +1,10 @@
 # LETUCE EAT
-#### Letuce Eat is a restaurant located at Moringa School and is open 24/7. If you love to eat, this is your home. Please come home, kindly.
-#### By Pascal Ouma Owilly
+#Letuce eat is a restaurant located at Moringa School and is open 24/7. If you love to eat, this is your home. Please come home, kindly.
+#### By Pascal Ouma Owilly & Moringa School
 ## Description
 This is an online shop that provides free delivery services to our esteemed customers, and is purposed to achieve its mission and objectives to bring satisfaction to your doorstep. 
 ## Setup/Installation Requirements
-* If you have a smartphone or a computer, you are ready to go
+* If you have a smartphone or a computer, you are ready to go. It supports all browsers including Internet Explorer
 ## Known Bugs
 We have no issues yet but should you come across anything. please send us an email on *pascalouma54@gmail.com* and we wil be sure to look into it.
 ## Technologies Used
