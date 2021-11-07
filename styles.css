@@ -269,6 +269,14 @@ span {
     margin: auto;
 }
 
+.main-container2 > .container {
+    margin-right: 70px;
+    margin-bottom: 60px;
+}
+
+.main-container1 > .container {
+    margin-right: 70px;
+}
 
 .container {
     display: flex;
