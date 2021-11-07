@@ -39,6 +39,20 @@ header {
     font-size: 25px;
 }
 
+.btn-2 {
+    margin-top: -150px;
+}
+
+
+.initial-text {
+    margin-top: -350px;
+    color: white;
+    margin-left: 40px;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
 .main-content-2 > .h-image {
     margin-top: -180px;
     width: 100%;
