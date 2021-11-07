@@ -2,15 +2,13 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    
+
+}
+
+body {
     font-family: Arial, Helvetica, sans-serif;
-
 }
-
-
-   
-
-}
-
  
 li, a, button {
     font-family: sans-serif;
@@ -30,6 +28,15 @@ header {
     background-color: #0a0806;
     opacity: .7;
     
+}
+
+.btn-1 {
+    position: absolute;
+    float: left;
+    color: #f19201;
+    margin-left: 90px;
+    font-weight: 700;
+    font-size: 25px;
 }
 
 .main-content-2 > .h-image {
@@ -236,6 +243,12 @@ span {
     line-height: 5em;
 }
 
+.premium {
+    position: relative;
+    color: #f19201;
+    font-size: 25px;
+}
+
 /* .container {
     display: flex;
     max-width: 600px;
@@ -337,10 +350,11 @@ span {
 footer {
     background-image: url('images/image8.png');
     background-repeat: no-repeat;
+    background-size: cover;
     width: 100%;
     height: 400px;
     text-align: center;
-    
+    margin-top: 50px;
     color: white;
 
 }
@@ -360,7 +374,11 @@ footer > button {
 }
 
 .booking {
-    margin-top: 10px;
+    margin-bottom: -25image80px;
+}
+
+.bk-moringa {
+    margin-top: 50px;
 }
 
 .main-container {
@@ -406,3 +424,15 @@ footer > button {
     margin: auto;
 }
 
+.footer-b {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+}
+
+.footer-b > p {
+    color: white;
+    padding-bottom: 5px;
+}
