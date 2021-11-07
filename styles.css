@@ -271,7 +271,7 @@ span {
 
 .main-container2 > .container {
     margin-right: 70px;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
 }
 
 .main-container1 > .container {
@@ -359,9 +359,16 @@ footer > button {
     background-repeat: no-repeat;
     margin: auto;
     background-color: #f19201;
-    height: 400px;
-
+    height: 300px;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
 }
+
+.main-content-1 > p {
+    margin-top: 40px;
+}
+
 /* .main-content-2 {
     flex: 1;
 } */
