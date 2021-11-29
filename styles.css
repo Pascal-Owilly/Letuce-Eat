@@ -39,8 +39,9 @@ header {
     font-size: 25px;
 }
 
-.btn-2 {
-    margin-top: -150px;
+ .active {
+   background-color: #f19201;
+   
 }
 
 
@@ -101,7 +102,7 @@ button {
 button:hover {
     background-color:rgba,136,169,0.7;
 }
-.h2-article {
+#h2-article {
     color: #f19201;
     text-align: center;
     font-size: 32px;
@@ -450,3 +451,4 @@ footer > button {
     color: white;
     padding-bottom: 5px;
 }
+

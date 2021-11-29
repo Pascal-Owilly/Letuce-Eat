@@ -8,20 +8,20 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-       <img class="logo" src="images/image3.png" alt="Logo">
+    <header onclick="message()">
+       
 
         <nav>
-            
-            <ul class="nav-links"> 
-                <li><a href="#">Home</a></li>
+   <ul class="nav-links"> 
+  <li><a class="active" href="#">Home</a></li>
+  
                 <li><a href="#">About</a></li>
                 <li><a href="#">Services</a></li>
                 <li><a href="#">Contacts</a></li>
+
+                
             </ul>
         </nav>
-        <a class="btn" href="#"><button>MORINGA</button></a>
-        <a class="btn-1">MORINGA</a>
     </header>
 
     
@@ -32,12 +32,12 @@
     <img class="h-image" src="images/image2.png" alt="" width="1400px">
    <p class="initial-text"> Premium and Authentic <br>Traditional Food Restaurant <br>Welcome!</p>
    <br><br><br>
-             <button>Order Now</button>
+             <button id="order">Order Now</button>
    </div> 
     </div>
 <br><br><br>
 
-    <h2 class="h2-article">Services</h2>
+    <h2 id="h2-article">Services</h2>
     <p class="p-article1"><em>Unique wood fired pizzas or be tempted by our pasta, antipasto,foccaccias, salads and Bruchetta dishes.
         <br>
     Relax in friendly ambience as you enjoy the aromas of the wood ovens or sit al fresco and soak up the </em></p>
@@ -201,5 +201,10 @@
 </footer>
 
 </div>
+
+
+<script src="script.js">
+
+</script>
 </body>
 </html>
